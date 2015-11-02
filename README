@@ -1,0 +1,11 @@
+Chat Application
+Written in Node.js
+
+This application shows the power of Node.js to create a chat application that can be used by multiple users. Users can broadcast messages, as well as private messaging.
+
+Node.js module dependencies:
+- Net
+- Websocket
+- Consolidate
+
+(c) John Michael Gerona
